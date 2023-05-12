@@ -1,3 +1,21 @@
+
+install git bash
+
+link it with your github account with this commands :: 
+
+    $ git config --global user.name "USER NAME"
+    $ git config --global user.email "MAIL ID"
+
+Download github extension in your visual codes (GitHub.vscode-pull-request-github);
+
+login with your GitHub account in your vs codes profile.
+
+after your login it will ask us to authenticate just follow the instructions provided by it.
+
+Sucessfully Connected with your account!!
+
+
+
 git clone "https link"(without quotes)
 
 change the directory to the Repo
