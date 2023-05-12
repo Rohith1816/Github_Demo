@@ -1,0 +1,13 @@
+git clone "https link"(without quotes)
+
+change the directory to the Repo
+
+make necessary changes 
+
+git status  - to check the status
+
+git add (file name) or use period (.) for all files
+
+git commit -m "Commit message" -m "Commit description" 
+
+git push origin (branch name) usually main or master depends on the system
