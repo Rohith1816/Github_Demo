@@ -31,3 +31,7 @@ git commit -m "Commit message" -m "Commit description"
 git push origin (branch name) usually main or master depends on the system
 
 git branch - shows the available branches in the Repo.
+
+git checkout -b Branch Name(Issue Number).
+
+git diff branch_Name :- shows the changes that i have made in other branches ...
