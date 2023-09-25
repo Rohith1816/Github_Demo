@@ -26,7 +26,7 @@ git status  - to check the status
 
 git add (file name) or use period (.) for all files
 
-git commit -m "Commit message" -m "Commit description" 
+git commit -m "Commit message" -m "Commit description"(optional doesn't matter) .
 
 git push origin (branch name) usually main or master depends on the system
 
